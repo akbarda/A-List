@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">Alarm List (A-List)</string>
+
+    <string name="edit">Edit</string>
+    <string name="delete">Delete</string>
+    <string name="mark_all">Mark All</string>
+    <string name="reset">Reset</string>
+</resources>
